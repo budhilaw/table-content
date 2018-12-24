@@ -1,5 +1,5 @@
 # Table of Content
-List of my personal or internship project.
+List of my personal or internship projects.
 
 ### Laravel
 * [Simple Multi Auth](https://github.com/budhilaw/multiauth)
