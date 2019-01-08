@@ -17,6 +17,10 @@ List of my personal or internship projects.
 ### AdonisJS
 * [Example API for Octopus Builder](https://github.com/budhilaw/octopus-api/tree/sample-api) (*Collaboration Project*)
 
+### Python
+* [Shopee Scraper](https://github.com/budhilaw/shopee_scrape)
+* [Tokopedia Scraper](https://github.com/budhilaw/tokped_scrape)
+
 ### Golang
 * Ongoing
 
