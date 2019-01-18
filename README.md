@@ -10,6 +10,7 @@ List of my personal or internship projects.
 
 ### Codeigniter
 * [Badan Kesatuan Bangsa dan Politik](http://bakesbangpol.sidoarjokab.go.id/)
+* [CiBlog App](https://github.com/budhilaw/ciblog-app)
 
 ### ReactJS
 * [React Simple Search](https://github.com/budhilaw/react-simple-search)
